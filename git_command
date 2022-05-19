@@ -1,0 +1,6 @@
+1.Коммит на github
+$ git clone <SSH adress>  # копируем репозиторий с github на локальную машину
+$ git remote -v
+$ git status # Статус фалов 
+$ git add
+
